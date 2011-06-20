@@ -3,7 +3,7 @@
 	
     <groupId>com.andreasfink</groupId>
     <artifactId>utils-xml</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 	
     <name>com.andreasfink.utils.xml</name>
