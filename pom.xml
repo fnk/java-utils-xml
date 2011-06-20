@@ -3,10 +3,10 @@
 	
     <groupId>com.andreasfink</groupId>
     <artifactId>utils-xml</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 	
-    <name>com.andreasfink.utils.env</name>
+    <name>com.andreasfink.utils.xml</name>
     <url>http://github.com/fnk/java-utils-xml</url>
 	
     <distributionManagement>
@@ -23,9 +23,9 @@
     </distributionManagement>
     
     <scm>
-        <connection>scm:git:git@github.com:fnk/java-utils-env.git</connection>
-        <url>scm:git:git@github.com:fnk/java-utils-env.git</url>
-        <developerConnection>scm:git:git@github.com:fnk/java-utils-env.git</developerConnection>  
+        <connection>scm:git:git@github.com:fnk/java-utils-xml.git</connection>
+        <url>scm:git:git@github.com:fnk/java-utils-xml.git</url>
+        <developerConnection>scm:git:git@github.com:fnk/java-utils-xml.git</developerConnection>  
     </scm>
 
     <properties>
